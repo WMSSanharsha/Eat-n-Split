@@ -38,4 +38,11 @@ The app comes with three default friends:
 - **React** for building the UI and managing the component states.
 - **useState** for handling state changes in the app.
 
+![Screenshot 2024-10-01 182403](https://github.com/user-attachments/assets/ecfa1c96-a19d-4623-a620-d49a21ae746f)
+![Screenshot 2024-10-01 182415](https://github.com/user-attachments/assets/600ba1a1-0eca-4d62-aca0-3324166bb5e4)
+![Screenshot 2024-10-01 182429](https://github.com/user-attachments/assets/29817c67-fe0e-4cee-afa0-1d53439ee282)
+![Screenshot 2024-10-01 182437](https://github.com/user-attachments/assets/9d02ac68-7ec5-4bba-8599-dd4629c0bc55)
+
+
+
 -Learn & Done By Watching Jonas React Course Practise Project
