@@ -1,4 +1,4 @@
-# Bill Splitting App
+# Bill N Splitting App
 
 This is a simple **React** app for splitting bills with friends. The app allows users to manage a list of friends, select a friend to split a bill with, and track the balance between users and their friends.
 
